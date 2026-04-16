@@ -17,6 +17,22 @@ Following the MernEats project series, this is a dedicated UI assignment designe
 
 In this implementation, **Flexbox** properties—specifically `justifyContent`, `alignItems`, and `flexDirection`—have been utilized at a granular level to achieve a professional-grade user interface.
 
+## 📸 Visual Tour
+
+---
+
+<p align="center">
+  <img src="./assets/images/Main-white.png" width="33%" alt="Home Screen white" />
+  <img src="./assets/images/Feature-white.png" width="33%" alt="Home Screen white" />
+  <img src="./assets/images/Settings-white.png" width="33%" alt="Home Screen white" />
+</p>
+
+<p align="center">
+  <img src="./assets/images/Main-black.png" width="33%" alt="Home Screen black" />
+  <img src="./assets/images/feature-black.png" width="33%" alt="Home Screen black" />
+  <img src="./assets/images/setting-black.png" width="33%" alt="Home Screen black" />
+</p>
+
 ## 📊 High‑Level Architecture
 
 ---

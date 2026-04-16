@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "Assignment_02_My_Calculator",
+    "slug": "Assignment_02_My_Calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/SplashIcon.png",
+    "scheme": "assignment02mycalculator",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/SplashIcon.png",
+        "backgroundImage": "./assets/images/SplashIcon.png",
+        "monochromeImage": "./assets/images/SplashIcon.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/SplashIcon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/SplashIcon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "backgroundColor": "#000000"
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
