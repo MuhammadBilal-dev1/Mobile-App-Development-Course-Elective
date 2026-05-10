@@ -10,8 +10,8 @@ This repository is structured to showcase progressive mastery of the React Nativ
 
 ## 🛠️ Technology Stack & Tooling
 ---
-| Category             | Technologies                | Purpose                                                   |
-| -------------------- | --------------------------- | --------------------------------------------------------- |
+| Category             | Technologies                                                                            |
+| -------------------- | --------------------------------------------------------------------------------------- |
 | Core Framework       | React 19, Expo SDK 54+, React Native                                                    |
 | Language             | TypeScript (Type-Safe Architecture) & ES6+ JavaScript                                   |
 | State Management     | Context API, useReducer, React Hooks (useState, useEffect, useRef)                      | 
