@@ -20,8 +20,8 @@ Key highlights include a responsive 3x3 + 1 grid architecture, real-time tempora
 ---
 
 <p align="center">
-  <img src="./assets/app-image/timer.png" width="50%" alt="timer" />
-  <img src="./assets/app-image/calculator.png" width="50%" alt="calculator" />
+  <img src="./assets/app-image/timer.png" width="30%" alt="timer" />
+  <img src="./assets/app-image/calculator.png" width="30%" alt="calculator" />
 </p>
 
 ## 📊 High‑Level Architecture

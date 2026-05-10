@@ -30,7 +30,7 @@ By utilizing a centralized Context-Reducer pattern, the application eliminates "
 
 <p align="center">
   <img src="./assets/app-image/black-home-screen.png" width="30%" alt="black-home-screen" />
-  <img src="./assets/app-image/black-explore-screen.png" width="20%" alt="black-explore-screen" />
+  <img src="./assets/app-image/black-explore-screen.png" width="30%" alt="black-explore-screen" />
 </p>
 
 ## 📊 High‑Level Architecture
