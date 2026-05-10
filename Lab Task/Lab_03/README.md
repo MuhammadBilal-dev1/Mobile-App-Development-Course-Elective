@@ -24,13 +24,13 @@ By utilizing a centralized Context-Reducer pattern, the application eliminates "
 ---
 
 <p align="center">
-  <img src="./assets/app-image/white-home-screen.png" width="50%" alt="white-home-screen" />
-  <img src="./assets/app-image/white-eplore-screen.png" width="50%" alt="white-eplore-screen" />
+  <img src="./assets/app-image/white-home-screen.png" width="30%" alt="white-home-screen" />
+  <img src="./assets/app-image/white-eplore-screen.png" width="30%" alt="white-eplore-screen" />
 </p>
 
 <p align="center">
-  <img src="./assets/app-image/black-home-screen.png" width="50%" alt="black-home-screen" />
-  <img src="./assets/app-image/black-explore-screen.png" width="50%" alt="black-explore-screen" />
+  <img src="./assets/app-image/black-home-screen.png" width="30%" alt="black-home-screen" />
+  <img src="./assets/app-image/black-explore-screen.png" width="20%" alt="black-explore-screen" />
 </p>
 
 ## 📊 High‑Level Architecture

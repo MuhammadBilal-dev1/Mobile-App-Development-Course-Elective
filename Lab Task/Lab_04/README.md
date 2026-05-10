@@ -24,8 +24,8 @@ The project demonstrates a production-grade approach to monitoring network traff
 ---
 
 <p align="center">
-  <img src="./assets/app-image/axios-interceptors.png" width="50%" alt="axios-interceptors" />
-  <img src="./assets/app-image/task-manageer.png" width="50%" alt="task-manageer" />
+  <img src="./assets/app-image/axios-interceptors.png" width="30%" alt="axios-interceptors" />
+  <img src="./assets/app-image/task-manageer.png" width="30%" alt="task-manageer" />
 </p>
 
 ## 📊 High‑Level Architecture
